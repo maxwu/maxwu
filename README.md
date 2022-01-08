@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-maxwu-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxwu/)](https://www.linkedin.com/in/maxwu/) [![Github Badge](https://img.shields.io/badge/-maxwu-grey?style=flat&logo=github&logoColor=white&link=https://github.com/maxwu/)](https://www.github.com/maxwu/) <p align='left'>A Pythonist, Gopher, Cloud practitioner, Linux cards and badminton player</p><p align='left'>
 
 - 🔭 I’m currently working on cloud resource orchestration with kubernetes in golang and python
-- ⚡ I also build python libs and mobile apps for fun and for family using
-- 🌱 I’m currently refreshing algorithms hand in golang
-- 👓 I'm learning serverless workflow
+- ⚡ I also build automation test tools, python libs and mobile apps for fun and for family using
+- 🌱 I’m currently refreshing algorithms mind in golang
+- 👓 I'm learning serverless workflow and plan to learn rust
 - 👯 I’m looking to collaborate on building a serverless workflow runtime with open sourced components
 - 📫 I'm also happy to discuss about kubernetes operators, helm charts, terraform providers and other IaaC approaches
 
