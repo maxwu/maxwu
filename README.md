@@ -21,10 +21,14 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on cloud orchestration platform with kubernetes in Golang and Python
   - k8s autonomy node repaver
-  - k8s governance service
+  - k8s governance service (with and without OPA)
   - multi-tenant k8s platform
+  - microservices circuit breaker and flow control design
 - ⚡ I also build automation test tools, python libs and mobile apps for fun and for family using
-- 🌱 I’m currently refreshing algorithms mind in golang
+- 🌱 I’m currently refreshing algo mind with golang by coding on:
+  - 🐭 a chainer lib to wrap up HTTP handlers in chain
+  - 🐹 a small general retrier lib
+  - 🐰 a generic circuit breaker sample lib
 - 👓 I'm learning serverless workflow and plan to learn rust
 - 👯 I’m looking to collaborate on building
   - a friendly workload platform with multi-tenant k8s
