@@ -19,16 +19,17 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-maxwunj@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:maxwunj@gmail.com)](mailto:maxwunj@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-maxwu-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxwu/)](https://www.linkedin.com/in/maxwu/) [![Github Badge](https://img.shields.io/badge/-maxwu-grey?style=flat&logo=github&logoColor=white&link=https://github.com/maxwu/)](https://www.github.com/maxwu/) <p align='left'>A Pythonist, Gopher, Cloud practitioner, Linux cards and badminton player</p><p align='left'>
 
-- 🔭 I’m currently working on cloud orchestration platform with kubernetes in Golang and Python
-  - k8s autonomy node repaver
-  - k8s governance service (with and without OPA)
-  - multi-tenant k8s platform
-  - microservices circuit breaker and flow control design
+- 🔭 I’m currently working on building and testing the Cloud Orchestration Platform with Kubernetes
+  - 🐙 (Done) A GitHub Actions Workflow Testing Framework to test workflows in separate contexts with out-of-box keywords automatically, e.g. in CI
+  - 🦞 (PoC Completed) A GitHub Action to detect Archived Go Dependencies
+  - 📊 (WIP) A Test Exporter to emit OpenTelemetry indicators for GoTest and general tests
+  - ☸️ (Done) k8s autonomy node repaver
+  - 🧩 (WIP) microservices circuit breaker and flow control design
 - ⚡ I also build automation test tools, python libs and mobile apps for fun and for family using
 - 🌱 I’m currently refreshing algo mind with golang by coding on:
-  - 🐭 a chainer lib to wrap up HTTP handlers in chain
-  - 🐹 a small general retrier lib
-  - 🐰 a generic circuit breaker sample lib
+  - 🔗 A chainer lib to wrap up HTTP handlers in chain
+  - 🐹 A tiny general retrier lib to retry functions with conditions
+  - 🐰 A generic circuit breaker sample lib
 - 👓 I'm learning serverless workflow and plan to learn rust
 - 👯 I’m looking to collaborate on building
   - a friendly workload platform with multi-tenant k8s
