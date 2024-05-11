@@ -19,10 +19,13 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-maxwunj@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:maxwunj@gmail.com)](mailto:maxwunj@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-maxwu-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxwu/)](https://www.linkedin.com/in/maxwu/) [![Github Badge](https://img.shields.io/badge/-maxwu-grey?style=flat&logo=github&logoColor=white&link=https://github.com/maxwu/)](https://www.github.com/maxwu/) <p align='left'>A Pythonist, Gopher, Cloud practitioner, Linux cards and badminton player</p><p align='left'>
 
-- 🔭 I’m currently working on building and testing the Cloud Orchestration Platform with Kubernetes
-  - 🐙 (Done) A GitHub Actions Workflow Testing Framework to test workflows in separate contexts with out-of-box keywords automatically, e.g. in CI
-  - 🦞 (PoC Completed) A GitHub Action to detect Archived Go Dependencies
-  - 📊 (WIP) A Test Exporter to emit OpenTelemetry indicators for GoTest and general tests
+- 🔭 I’m currently working on building and testing the Cloud Orchestration and Deployment framework for Platform Engineering
+  - 🕵️ (Kicking off) Go compiler tool to instrument program with Open Telemetry without code change
+  - 🧪 (Kicking off) A simple go test label selector
+  - 🐙 (Done) A Test Framwork to verify GitHub Actions and Workflows in sandbox workflow-run context with keywords, e.g. for CI and Releasing
+  - 🦞 (PoC Done) A GitHub Action to detect Archived Go Dependencies
+  - 📊 (Done) A Test Exporter to emit OpenTelemetry indicators for GoTest and general tests
+- 🌤️ I used to work on world's leading Cloud Provider building the Container and Kubernetes Engine platform
   - ☸️ (Done) k8s autonomy node repaver
   - 🧩 (WIP) microservices circuit breaker and flow control design
 - ⚡ I also build automation test tools, python libs and mobile apps for fun and for family using
