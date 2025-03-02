@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building and testing the Cloud Orchestration and Deployment framework for Platform Engineering
   - 🕵️ (Kicking off) Go compiler tool to instrument program with Open Telemetry without code change
-  - 🧪 (Kicking off) A simple go test label selector
+  - 🐹 [gotest-labels](https://github.com/maxwu/gotest-labels) A golang package to select go test funcs via labels, which is built with testing args mutation and AST parsing and it doesn't require actual code changes
   - 🐙 (Done) A Test Framwork to verify GitHub Actions and Workflows in sandbox workflow-run context with keywords, e.g. for CI and Releasing
   - 🦞 (PoC Done) A GitHub Action to detect Archived Go Dependencies
   - 📊 (Done) A Test Exporter to emit OpenTelemetry indicators for GoTest and general tests
