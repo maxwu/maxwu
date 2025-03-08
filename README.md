@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-maxwu-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxwu/)](https://www.linkedin.com/in/maxwu/) [![Github Badge](https://img.shields.io/badge/-maxwu-grey?style=flat&logo=github&logoColor=white&link=https://github.com/maxwu/)](https://www.github.com/maxwu/) <p align='left'>A Pythonist, Gopher, Cloud practitioner, Linux cards and badminton player</p><p align='left'>
 
 - 🔭 I’m currently working on building and testing the Cloud Orchestration and Deployment framework for Platform Engineering
-  - 🕵️ (Kicking off) Go compiler tool to instrument program with Open Telemetry without code change
-  - 🐹 [gotest-labels](https://github.com/maxwu/gotest-labels) A golang package to select go test funcs via labels, which is built with testing args mutation and AST parsing and it doesn't require actual code changes
+  - 🐹 [gotest-labels](https://github.com/maxwu/gotest-labels) v1.1.1 is released 🙌 A tiny golang package to select go tests with labels and 1 line code change.
+  - 🕵️ (Kicking off) Go compiler tool to instrument the go code with injected OTel and Test Traceability.
   - 🐙 (Done) A Test Framwork to verify GitHub Actions and Workflows in sandbox workflow-run context with keywords, e.g. for CI and Releasing
   - 🦞 (PoC Done) A GitHub Action to detect Archived Go Dependencies
   - 📊 (Done) A Test Exporter to emit OpenTelemetry indicators for GoTest and general tests
