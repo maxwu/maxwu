@@ -41,10 +41,8 @@ Here are some ideas to get you started:
 - 📫 I'm also happy to discuss about kubernetes operators, multi-tenancy challenges, helm charts, terraform providers and other IaaC approaches
 
 You can view my blogs <a href='https://maxwu.me ' target=_blank><u>here</u>.</a></p>
+
 ## Some of my Github Stats
+
 <p align=left> <img src=https://komarev.com/ghpvc/?username=maxwu alt=maxwu /> </p>
 
-[![Github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maxwu&show_icons=true&include_all_commits=true&count_private=true&show_owner=true&hide=contribs)](https://github.com/maxwu/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maxwu&layout=compact&count_private=true&hide=HTML,CSS)](https://github.com/maxwu/github-readme-stats)
